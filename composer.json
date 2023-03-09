@@ -19,7 +19,7 @@
         "php": ">=5.6.0",
         "axguowen/think-framework": "^6.1.0",
         "axguowen/think-orm": "^2.0",
-        "axguowen/think-filesystem": "^2.0"
+        "axguowen/think-filesystem": "^1.0"
     },
     "require-dev": {
         "axguowen/think-trace": "^1.0"
